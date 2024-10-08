@@ -1,7 +1,0 @@
-export * from "./Home"
-export * from "./Feeds"
-export * from "./Events"
-export * from "./Promo"
-export * from "./Community"
-export * from "./News"
-export * from "./Foryou"
