@@ -1,0 +1,38 @@
+[
+  {
+    "commID": "com01", "commCategory": "none", 
+	"commImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAfAL4_kiK7ptEOqZ5NL5quUuuCz9tURe9bQ&s",
+    "commTitle": "Happy Fruit",
+    "commDesc": "Jl.buah segar VII"
+  },
+  {
+    "commID": "com02", "commCategory": "none", 
+	"commImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzrMgjS1ARMwttFMAQX6fGj8_YfJgTXJMbPg&s",
+    "commTitle": "Toko Bang Udin",
+    "commDesc": "Jl.buah segar VII"
+  },
+  {
+    "commID": "com03", "commCategory": "none", 
+	"commImg": "https://upload.wikimedia.org/wikipedia/id/8/8c/Komunitasaspera.jpeg",
+    "commTitle": "Kopi Aceh Gayo",
+    "commDesc": "Jl.buah segar VII"
+  },
+  {
+    "commID": "com04", "commCategory": "none", 
+	"commImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi2IKB-KD6w3ejJ53N2zWNEwmBTZx2tJRtSA&s",
+    "commTitle": "Sate Bu Minah",
+    "commDesc": "Jl.buah segar VII"
+  },
+  {
+    "commID": "com05", "commCategory": "hobby", 
+	"commImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfHdcGwUJtr9jG7pfPCqqhhsYXx2Q6V9tzDg&s",
+    "commTitle": "Jussy Jus",
+    "commDesc": "Jl.buah segar VII"
+  },
+  {
+    "commID": "com06", "commCategory": "none", 
+	"commImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMN3DOz5Kznx-I5XUGaYZZT1p81BKTZ11xCA&s",
+    "commTitle": "Snack Bu wawan",
+    "commDesc": "Jl.buah segar VII"
+  }
+]
