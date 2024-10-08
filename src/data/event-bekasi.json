@@ -1,0 +1,401 @@
+[
+  {
+    "eventID" : "ev1",
+	"eventUrl": "https://event.detik.com/514/creativepreneur-summit-2024",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17220440460.png?w=900&q=90",
+    "eventTitle": "Creativepreneur Summit 2024",
+    "eventDate": "24 Agustus 2024 - 25 Agustus 2024",
+    "eventLocation": "Jakarta Convention Center, Jalan Gatot Subroto, RT.1/RW.3, Gelora, Central Jakarta City, Jakarta, Indonesia",
+    "eventPrice": "Rp 200.000",
+	"eventCategory": "festival"
+  },
+  {
+	"eventID" : "ev2",
+    "eventUrl": "https://event.detik.com/455/bali-zoo",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17107329430.jpg?w=900&q=90",
+    "eventTitle": "Bali Zoo",
+    "eventDate": "*Selama promo berlangsung",
+    "eventLocation": "Bali Zoo, Jalan Raya Singapadu, Singapadu, Gianyar Regency, Bali, Indonesia",
+    "eventPrice": "Rp 90.000",
+	"eventCategory": "promo"
+  },
+  {
+	"eventID" : "ev3",
+    "eventUrl": "https://event.detik.com/456/privat-ngaji-online--khatam-lebih-mudah-dan-cepat",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17114277030.png?w=900&q=90",
+    "eventTitle": "Privat Ngaji Online: Khatam Lebih Mudah dan Cepat",
+    "eventDate": "21 Maret 2024 - 31 Desember 2024",
+    "eventLocation": "Online",
+    "eventPrice": "Rp 255.000",
+	"eventCategory": "seminar"
+  },
+  {
+	"eventID" : "ev4",
+    "eventUrl": "https://event.detik.com/457/barcode-gokart",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17151706830.png?w=900&q=90",
+    "eventTitle": "Barcode Gokart",
+    "eventDate": "*Selama promo berlangsung",
+    "eventLocation": "Mall Of Indonesia, Jalan Boulevard Barat Raya, RT.18/RW.19, West Kelapa Gading, North Jakarta City, Jakarta, Indonesia",
+    "eventPrice": "Rp 55.000",
+	"eventCategory": "promo"
+  },
+  {
+	"eventID" : "ev5",
+    "eventUrl": "https://event.detik.com/477/hillpark-sibolangit--wahana-dan-taman-hiburan-terbesar-di-sumatera",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17200008000.jpg?w=900&q=90",
+    "eventTitle": "HILLpark Sibolangit: Wahana dan Taman Hiburan Terbesar di Sumatera",
+    "eventDate": "*Selama promo berlangsung",
+    "eventLocation": "Hillpark Sibolangit, Jalan Jamin Ginting, Sikeben, Deli Serdang Regency, North Sumatra, Indonesia",
+    "eventPrice": "Rp 120.000",
+	"eventCategory": "promo"
+  },
+  {
+	"eventID" : "ev6",  
+    "eventUrl": "https://event.detik.com/522/festival-like--2",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17227034450.jpg?w=900&q=90",
+    "eventTitle": "Festival LIKE  2",
+    "eventDate": "08 Agustus 2024 - 11 Agustus 2024",
+    "eventLocation": "Jakarta Convention Center (JCC), Jalan Gatot Subroto, RT.1/RW.3, Gelora, Central Jakarta City, Jakarta, Indonesia",
+    "eventPrice": "GRATIS",
+	"eventCategory": "festival"
+  },
+  {
+	"eventID" : "ev7",
+    "eventUrl": "https://event.detik.com/517/inovasi-dan-kewirausahaan-dalam-industri-sepak-bola",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17219902290.jpg?w=900&q=90",
+    "eventTitle": "Inovasi dan Kewirausahaan dalam Industri Sepak Bola",
+    "eventDate": "09 Agustus 2024",
+    "eventLocation": "Online",
+    "eventPrice": "Rp 100.000",
+	"eventCategory": "seminar"
+  },
+  {
+	"eventID" : "ev8",
+    "eventUrl": "https://event.detik.com/512/detikcourse--jago-ui-ux-dalam-2-jam-",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17213982930.jpg?w=900&q=90",
+    "eventTitle": "detikCourse: Jago UI/UX Dalam 2 Jam!",
+    "eventDate": "09 Agustus 2024 - 23 Agustus 2024",
+    "eventLocation": "Online",
+    "eventPrice": "Rp 175.000",
+	"eventCategory": "seminar"
+  },
+  {
+	"eventID" : "ev9",
+    "eventUrl": "https://event.detik.com/510/i-like-walk--festival-like-2-klhk-",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17223937110.jpg?w=900&q=90",
+    "eventTitle": "I LIKE WALK [FESTIVAL LIKE 2 KLHK]",
+    "eventDate": "11 Agustus 2024",
+    "eventLocation": "Jakarta Convention Center (JCC), Jalan Gatot Subroto, RT.1/RW.3, Gelora, Central Jakarta City, Jakarta, Indonesia",
+    "eventPrice": "GRATIS",
+	"eventCategory": "festival"
+  },
+  {
+	"eventID" : "ev10",
+    "eventUrl": "https://event.detik.com/513/lomba-kemerdekaan-2024",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17220574570.png?w=900&q=90",
+    "eventTitle": "Lomba Kemerdekaan 2024",
+    "eventDate": "18 Agustus 2024",
+    "eventLocation": "Depok Town Square (Detos), Jalan Margonda Raya, Pondok Cina, Depok City, West Java, Indonesia",
+    "eventPrice": "Rp 190.000"
+  },
+  {
+	"eventID" : "ev11",
+    "eventUrl": "https://event.detik.com/480/prambanan-jogja-color-run-festival-2024",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17143635930.jpg?w=900&q=90",
+    "eventTitle": "PRAMBANAN JOGJA COLOR RUN FESTIVAL 2024",
+    "eventDate": "25 Agustus 2024",
+    "eventLocation": "Candi Prambanan, Jalan Raya Solo - Yogyakarta, Kranggan, Bokoharjo, Sleman Regency, Special Region of Yogyakarta, Indonesia",
+    "eventPrice": "Rp 250.000",
+	"eventCategory": "festival"
+  },
+  {
+	"eventID" : "ev12",
+    "eventUrl": "https://event.detik.com/507/ultima-sonora-the-river-of-life-pre-competition-concert",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17197300030.png?w=900&q=90",
+    "eventTitle": "Ultima Sonora The River of Life Pre Competition Concert",
+    "eventDate": "31 Agustus 2024",
+    "eventLocation": "Gedung D, Universitas Multimedia Nusantara, Jalan Scientia Boulevard, Curug Sangereng, Tangerang Regency, Banten, Indonesia",
+    "eventPrice": "Rp 35.000",
+	"eventCategory": "concert"
+  },
+  {
+	"eventID" : "ev13",
+    "eventUrl": "https://event.detik.com/523/axean-festival-2024",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17228664380.jpg?w=900&q=90",
+    "eventTitle": "AXEAN Festival 2024",
+    "eventDate": "28 September 2024 - 29 September 2024",
+    "eventLocation": "Jimbaran HUB, Jalan Karang Mas, Jimbaran, Badung Regency, Bali, Indonesia",
+    "eventPrice": "Rp 125.000",
+	"eventCategory": "festival"
+  },
+  {
+	"eventID" : "ev14",
+    "eventUrl": "https://event.detik.com/481/jakarta-night-fun-run-festival-2024",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17143650480.jpg?w=900&q=90",
+    "eventTitle": "JAKARTA NIGHT FUN RUN FESTIVAL 2024",
+    "eventDate": "02 November 2024",
+    "eventLocation": "Symphony of the Sea, RW.10, Ancol, Jakarta Utara, Jakarta, Indonesia",
+    "eventPrice": "Rp 250.000",
+	"eventCategory": "festival"
+  },
+  {
+	"eventID" : "ev15",
+    "eventUrl": "https://event.detik.com/486/skorz-fx-sudirman",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17147978330.jpg?w=900&q=90",
+    "eventTitle": "SKORZ FX SUDIRMAN",
+    "eventDate": "04 Mei 2024 - 31 Agustus 2024",
+    "eventLocation": "Skorz Sportainment, Jl. Jenderal Sudirman Jalan Pintu Satu Senayan, Gelora, Central Jakarta City, Jakarta, Indonesia",
+    "eventPrice": "",
+	"eventCategory": "festival"
+  },
+  {
+	"eventID" : "ev16",
+    "eventUrl": "https://event.detik.com/488/surabaya-color-run-festival-2024",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17158394440.jpg?w=900&q=90",
+    "eventTitle": "SURABAYA COLOR RUN FESTIVAL 2024",
+    "eventDate": "06 Oktober 2024",
+    "eventLocation": "Plaza Surabaya, Embong Kaliasin, Surabaya, East Java, Indonesia",
+    "eventPrice": "Rp 250.000",
+	"eventCategory": "festival"
+  },
+  {
+	"eventID" : "ev17",
+    "eventUrl": "https://event.detik.com/521/the-finals-pelita-jaya-basketball-x-satria-muda-pertamina",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17226573960.jpg?w=900&q=90",
+    "eventTitle": "The Finals Pelita Jaya Basketball X Satria Muda Pertamina",
+    "eventDate": "04 Agustus 2024",
+    "eventLocation": "Indoor Stadium, Jalan Dasana Indah, Bojong Nangka, Tangerang Regency, Banten, Indonesia",
+    "eventPrice": "Rp 200.000",
+	"eventCategory": "festival"
+  },
+  {
+	"eventID" : "ev18",
+    "eventUrl": "https://event.detik.com/518/the-finals-pelita-jaya-basketball-x-satria-muda-pertamina",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17224065890.jpg?w=900&q=90",
+    "eventTitle": "The Finals Pelita Jaya Basketball X Satria Muda Pertamina",
+    "eventDate": "03 Agustus 2024",
+    "eventLocation": "Indoor Stadium, Jalan Dasana Indah, Bojong Nangka, Tangerang Regency, Banten, Indonesia",
+    "eventPrice": "Rp 200.000",
+	"eventCategory": "festival"
+  },
+  {
+	"eventID" : "ev19",
+    "eventUrl": "https://event.detik.com/516/pelita-jaya-basketball-x-prawira-harum-bandung",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17217989290.jpg?w=900&q=90",
+    "eventTitle": "Pelita Jaya Basketball X Prawira Harum Bandung",
+    "eventDate": "27 Juli 2024",
+    "eventLocation": "Indoor Stadium, Jalan Dasana Indah, Bojong Nangka, Tangerang Regency, Banten, Indonesia",
+    "eventPrice": "Rp 100.000",
+	"eventCategory": "festival"
+  },
+  {
+	"eventID" : "ev20",
+    "eventUrl": "https://event.detik.com/515/ngopi---bikin-konten-ga-garing--gunain-ai-untuk-social-media-marketing",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17217970410.jpg?w=900&q=90",
+    "eventTitle": "NGOPI : BIKIN KONTEN GA GARING, GUNAIN AI UNTUK SOCIAL MEDIA MARKETING",
+    "eventDate": "26 Juli 2024",
+    "eventLocation": "Habitate Jakarta, Jalan Setia Budi Utara Raya, Kuningan, Karet Kuningan, South Jakarta City, Jakarta, Indonesia",
+    "eventPrice": "GRATIS",
+	"eventCategory": "festival"
+  },
+  {
+	"eventID" : "ev21",
+    "eventUrl": "https://event.detik.com/509/pelita-jaya-basketball-x-bali-united",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17210642380.jpg?w=900&q=90",
+    "eventTitle": "Pelita Jaya Basketball X Bali United",
+    "eventDate": "20 Juli 2024",
+    "eventLocation": "Indoor Stadium, Jalan Dasana Indah, Bojong Nangka, Tangerang Regency, Banten, Indonesia",
+    "eventPrice": "Rp 200.000",
+	"eventCategory": "festival"
+  },
+  {
+	"eventID" : "ev22",
+    "eventUrl": "https://event.detik.com/508/himehina-live-2024-remember-the-tears",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17201632760.jpg?w=900&q=90",
+    "eventTitle": "HIMEHINA LIVE 2024 Remember the Tears",
+    "eventDate": "02 Agustus 2024 - 03 Agustus 2024",
+    "eventLocation": "Online",
+    "eventPrice": "Rp 400.000",
+	"eventCategory": "festival"
+  },
+  {
+	"eventID" : "ev23",
+    "eventUrl": "https://event.detik.com/506/pencegahan-dan-penanganan-cedera-pada-awam---do-it-like-professional-",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17205294720.jpg?w=900&q=90",
+    "eventTitle": "Pencegahan dan Penanganan Cedera Pada Awam : Do It Like Professional!",
+    "eventDate": "10 Juli 2024",
+    "eventLocation": "Online",
+    "eventPrice": "Rp 90.000",
+	"eventCategory": "festival"
+  },
+  {
+	"eventID" : "ev24",
+    "eventUrl": "https://event.detik.com/505/pelita-jaya-basketball-x-rans",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17188469920.jpg?w=900&q=90",
+    "eventTitle": "Pelita Jaya Basketball X RANS",
+    "eventDate": "23 Juni 2024",
+    "eventLocation": "Sports Mall Kelapa Gading, Mahaka Square, Jalan Raya Kelapa Nias, RT.8/RW.6, West Kelapa Gading, Jakarta Utara, Jakarta, Indonesia",
+    "eventPrice": "Rp 100.000",
+	"eventCategory": "festival"
+  },
+  {
+	"eventID" : "ev25",
+    "eventUrl": "https://event.detik.com/504/pelita-jaya-basketball-x-dewa-united",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17188468520.jpg?w=900&q=90",
+    "eventTitle": "Pelita Jaya Basketball X Dewa United",
+    "eventDate": "22 Juni 2024",
+    "eventLocation": "Sports Mall Kelapa Gading, Mahaka Square, Jalan Raya Kelapa Nias, RT.8/RW.6, West Kelapa Gading, Jakarta Utara, Jakarta, Indonesia",
+    "eventPrice": "Rp 100.000",
+	"eventCategory": "festival"
+  },
+  {
+	"eventID" : "ev26",
+    "eventUrl": "https://event.detik.com/501/road-to-sodi-world-series",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17176602270.png?w=900&q=90",
+    "eventTitle": "ROAD TO SODI WORLD SERIES",
+    "eventDate": "22 Juni 2024 - 23 Juni 2024",
+    "eventLocation": "Barcode Gokart, Jalan Boulevard Barat Raya, West Kelapa Gading, North Jakarta City, Jakarta, Indonesia",
+    "eventPrice": "Rp 500.000",
+	"eventCategory": "festival"
+  },
+  {
+	"eventID" : "ev27",
+    "eventUrl": "https://event.detik.com/500/detikcourse---kelas-bahasa-jepang--vod-only-",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17188777080.jpg?w=900&q=90",
+    "eventTitle": "detikCourse : Kelas Bahasa Jepang (VOD ONLY)",
+    "eventDate": "14 Juni 2024 - 30 Juni 2024",
+    "eventLocation": "VOD",
+    "eventPrice": "Rp 50.000",
+	"eventCategory": "festival"
+  },
+  {
+	"eventID" : "ev28",
+    "eventUrl": "https://event.detik.com/499/detikcourse---kelas-bahasa-jepang",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17171557600.jpg?w=900&q=90",
+    "eventTitle": "detikCourse : Kelas Bahasa Jepang",
+    "eventDate": "14 Juni 2024 - 30 Juni 2024",
+    "eventLocation": "Online",
+    "eventPrice": "Rp 25.000",
+	"eventCategory": "festival"
+  },
+  {
+	"eventID" : "ev29",
+    "eventUrl": "https://event.detik.com/498/pelita-jaya-basketball-x-kesatria-bengawan-solo",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17170486930.jpg?w=900&q=90",
+    "eventTitle": "Pelita Jaya Basketball X Kesatria Bengawan Solo",
+    "eventDate": "02 Juni 2024",
+    "eventLocation": "GOR UNJ, Kampus B UNJ, Jalan Pemuda, Rawamangun, East Jakarta City, Jakarta, Indonesia",
+    "eventPrice": "Rp 175.000",
+	"eventCategory": "festival"
+  },
+  {
+	"eventID" : "ev30",
+    "eventUrl": "https://event.detik.com/497/pelita-jaya-basketball-x-bima-perkasa-jogja",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17169818850.jpg?w=900&q=90",
+    "eventTitle": "Pelita Jaya Basketball X Bima Perkasa Jogja",
+    "eventDate": "01 Juni 2024",
+    "eventLocation": "GOR UNJ, Kampus B UNJ, Jalan Pemuda, Rawamangun, East Jakarta City, Jakarta, Indonesia",
+    "eventPrice": "Rp 175.000",
+	"eventCategory": "festival"
+  },
+  {
+	"eventID" : "ev31",
+    "eventUrl": "https://event.detik.com/476/king-promise---live-in-concert",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17141195500.png?w=900&q=90",
+    "eventTitle": "KING PROMISE - Live in Concert",
+    "eventDate": "03 Mei 2024 - 04 Mei 2024",
+    "eventLocation": "Bengkel Space, Jalan Jendral Sudirman kav 52-53, RT.5/RW.3, Senayan, South Jakarta City, Jakarta, Indonesia",
+    "eventPrice": "Rp 200.000",
+	"eventCategory": "festival"
+  },
+  {
+	"eventID" : "ev32",
+    "eventUrl": "https://event.detik.com/475/kelas-ai---chatgpt-detikcourse---paham-ai-dalam-2-jam-",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17155888660.jpg?w=900&q=90",
+    "eventTitle": "Kelas AI & ChatGPT detikCourse : Paham AI dalam 2 Jam!",
+    "eventDate": "08 Mei 2024 - 22 Mei 2024",
+    "eventLocation": "Online",
+    "eventPrice": "Rp 200.000",
+	"eventCategory": "festival"
+  },
+  {
+	"eventID" : "ev33",
+    "eventUrl": "https://event.detik.com/463/jakarta-color-run-festival-2024",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17138601550.jpg?w=900&q=90",
+    "eventTitle": "JAKARTA COLOR RUN FESTIVAL 2024",
+    "eventDate": "21 Juli 2024",
+    "eventLocation": "Pasar Seni, Taman Impian Jaya, Jl. Lodan timur, RW.10, Ancol, North Jakarta City, Jakarta, Indonesia",
+    "eventPrice": "Rp 250.000",
+	"eventCategory": "festival"
+  },
+  {
+	"eventID" : "ev34",
+    "eventUrl": "https://event.detik.com/461/lets-try-it-out-2024",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17138507570.jpg?w=900&q=90",
+    "eventTitle": "Lets Try It Out 2024",
+    "eventDate": "23 April 2024",
+    "eventLocation": "Online",
+    "eventPrice": "GRATIS",
+	"eventCategory": "festival"
+  },
+  {
+	"eventID" : "ev35",
+    "eventUrl": "https://event.detik.com/460/jazz-gunung-slamet-2024",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17126539160.png?w=900&q=90",
+    "eventTitle": "Jazz Gunung Slamet 2024",
+    "eventDate": "11 Mei 2024",
+    "eventLocation": "PALAWI BATURADEN, Dusun III Berubahan, Kemutug Lor, Banyumas Regency, Central Java, Indonesia",
+    "eventPrice": "Rp 205.000",
+	"eventCategory": "festival"
+  },
+  {
+	"eventID" : "ev36",
+    "eventUrl": "https://event.detik.com/448/music-travel-love--covering-the-world--feat--dave-moffatt-asia-tour-2024--jakarta",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17104800340.png?w=900&q=90",
+    "eventTitle": "Music Travel Love",
+    "eventDate": "21 April 2024",
+    "eventLocation": "Bengkel Space, Jalan Jendral Sudirman kav 52-53, RT.5/RW.3, Senayan, South Jakarta City, Jakarta, Indonesia",
+    "eventPrice": "Rp 1.005.000",
+	"eventCategory": "festival"
+  },
+  {
+	"eventID" : "ev37",
+    "eventUrl": "https://event.detik.com/447/pelita-jaya-jakarta-x-bali-united",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17096992790.png?w=900&q=90",
+    "eventTitle": "Pelita Jaya Jakarta X Bali United",
+    "eventDate": "09 Maret 2024",
+    "eventLocation": "GOR UNJ, Kampus B UNJ, Jalan Pemuda, Rawamangun, East Jakarta City, Jakarta, Indonesia",
+    "eventPrice": "Rp 205.000",
+	"eventCategory": "festival"
+  },
+  {
+	"eventID" : "ev38",
+    "eventUrl": "https://event.detik.com/446/pelita-jaya-jakarta-x-satya-wacana-salatiga",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17096990720.png?w=900&q=90",
+    "eventTitle": "Pelita Jaya Jakarta X Satya Wacana Salatiga",
+    "eventDate": "08 Maret 2024",
+    "eventLocation": "GOR UNJ, Kampus B UNJ, Jalan Pemuda, Rawamangun, East Jakarta City, Jakarta, Indonesia",
+    "eventPrice": "Rp 180.000",
+	"eventCategory": "festival"
+  },
+  {
+	"eventID" : "ev39",
+    "eventUrl": "https://event.detik.com/445/dpreneur-modal-uang-jajan--wishlist-2024-jalan",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17091903660.jpg?w=900&q=90",
+    "eventTitle": "dPreneur Modal Uang Jajan, Wishlist 2024 Jalan",
+    "eventDate": "05 Maret 2024",
+    "eventLocation": "Universitas Tarumanagara, Letjen S. Parman Street, RT.6/RW.16, Tomang, West Jakarta City, Jakarta, Indonesia",
+    "eventPrice": "GRATIS",
+	"eventCategory": "festival"
+  },
+  {
+	"eventID" : "ev40",
+    "eventUrl": "https://event.detik.com/443/a-m-festival-2024--unmute-the-resonance",
+    "eventImg": "https://akcdn.detik.net.id/detikevent/event_17157511740.png?w=900&q=90",
+    "eventTitle": "A:M Festival 2024: Unmute the Resonance",
+    "eventDate": "19 Mei 2024",
+    "eventLocation": "Kota Peruri, Jalan Palatehan, Melawai, South Jakarta City, Jakarta, Indonesia",
+    "eventPrice": "Rp 80.000",
+	"eventCategory": "festival"
+  }
+]
